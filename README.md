@@ -2,6 +2,8 @@
 ProjectDeadass  
 Allen Wu 015292667 yanshiun.wu@sjsu.edu
 
+![News Demo Dashboard](NewsDashboard.png)
+
 [Demo Video](https://drive.google.com/file/d/11cvwsm8JXFGxWKDG4Mvso2T4lRpEtfKG/view?usp=sharing)
 
 [Train Video](https://drive.google.com/file/d/1W6A3exxuCQMHAFQTB0IEdGZz4-VJ_II9/view?usp=sharing)
